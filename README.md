@@ -3,7 +3,7 @@ This is a side project using a lot of programming concepts we learnt at uni. Thi
 
 This project started in June 2024 (summer break) with researching, and had its last changes made during christmas break the same year. For a project in one of our courses during the spring semester in 2025, I remade the project in Rust while also looking into playback of ```.mp3``` files.
 
-*This project is unfinished, but usable*
+*Both versions of the project are unfinished, but usable*
 
 The main goal of this project was to get a deeper understanding of how music is played back digitally, and to touch on low level concepts like handling audio samples manually, using multithreading to be able to read console inputs without freezing the main program, and actually getting to understand how an audio file works.
 
